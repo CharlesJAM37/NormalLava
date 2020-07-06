@@ -1,0 +1,8 @@
+---
+name: NormalLava
+main: charlesjam37\Main
+author: charlesjam37
+version: 0.0.1dev
+api: [3.13.1]
+description: "Vanilla Lava Features"
+---
