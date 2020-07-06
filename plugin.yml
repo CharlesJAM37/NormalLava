@@ -4,5 +4,6 @@ main: charlesjam37\Main
 author: charlesjam37
 version: 0.0.1dev
 api: [3.13.1]
+website: https://github.com/CharlesJAM37/NormalLava
 description: "Vanilla Lava Features"
 ---
